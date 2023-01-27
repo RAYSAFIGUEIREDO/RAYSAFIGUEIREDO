@@ -51,18 +51,18 @@
 </p>
 
 💼 Want to hire me or see my resume? Check e-mail
-<br />💬 Ask me about anything, I'll be <a href="https://github.com/raysafiigueiredo/raysafiigueiredo/issues" target="_blank">happy to help</a>
+<br />💬 Ask me about anything, I'll be <a>happy to help</a>
 
 <!--## MY SOCIAL NETWORKS -->
 <div align="center">
 
 <!--Whatsapp -->  <a href="https://tinyurl.com/raysafiigueiredo" target="_blank"><img title = "Whatsapp" alt = "Whatsapp link" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
+
+<!-- Linkedin-->  <a href="https://www.linkedin.com/in/raysafiigueiredo" target="_blank"><img title = "Linkedin" alt = "Linkedin link" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <!--Instagram-->  <a href="https://instagram.com/raysafiigueiredo" target="_blank"><img title = "Instagram" alt = "Intagram link" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 <!--Facebook -->  <a href="https://fb.com/raysafiigueiredo" target="_blank"><img title = "Facebook" alt = "Facebook link" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  
-<!-- Linkedin-->  <a href="https://www.linkedin.com/in/raysafiigueiredo" target="_blank"><img title = "Linkedin" alt = "Linkedin link" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!--  Gmail  -->  <a href = "mailto:contato@raysafiigueiredo" target="_blank"><img title = "Gmail" alt = "Gmail link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
