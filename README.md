@@ -47,11 +47,11 @@
 ## Summary
 <p>
   <img align="right" width="300" title= "" alt = "Man sitting on floor using laptop" src="https://github.com/amacado/amacado/blob/master/assets/images/undraw_version_control_re_mg66.svg" />
-  I'm a student in love with the Java language, experiencing my first love for the Object Oriented language. I love complex and challenging projects and I'm always looking for new challenges. Want to know more about me. Please feel free to <a href="https://www.linkedin.com/in/raysafiigueiredo/" target="_blank">contact me</a>.
+  I'm a student in love with the Java language, experiencing my first love for the Object Oriented language. I love complex and challenging projects and I'm always looking for new challenges. Follow me below!
 </p>
 
 💼 Want to hire me or see my resume? Check e-mail
-<br />💬 Ask me about anything, I'll be <a>happy to help</a>
+<br />💬 Ask me about anything, I'll be <a href="https://github.com/raysafiigueiredo/raysafiigueiredo/issues" target="_blank">happy to help</a>
 
 <!--## MY SOCIAL NETWORKS -->
 <div align="center">
